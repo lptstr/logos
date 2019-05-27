@@ -1,0 +1,30 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style type="text/css">
+    @font-face {
+      font-family: 'Arvo';
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      src: local('Arvo'), url(https://fonts.gstatic.com/s/arvo/v11/tDbD2oWUg0MKqScQ7Q.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+  </style>
+</defs>
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="402" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="475" width="677" y="-28.5" x="-169.5" stroke-width="1.5" stroke="#000" fill="#000000"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="250" id="svg_2" y="286.5" x="36.5" stroke-width="0" stroke="#000" fill="#ffffff">$</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="200" id="svg_3" y="243.5" x="204.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff">L</text>
+  <rect id="svg_4" height="16" width="111.999994" y="292.499999" x="218.5" stroke-width="1.5" stroke="#007f00" fill="#007f00"/>
+  <rect id="svg_5" height="1" width="0" y="257.5" x="290.5" stroke-width="1.5" stroke="#ffffff" fill="#ffffff"/>
+ </g>
+</svg>
